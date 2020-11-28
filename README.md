@@ -1,4 +1,4 @@
-Calculadora
+**Calculadora**
 
 Função: fazer contas: soma, divisão, multiplicação, subtração, exponenciação e módulo.
 
