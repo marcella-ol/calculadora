@@ -1,4 +1,4 @@
-# Calculadora :paperclip:
+# Calculadora :file_folder:
 
 #### Função: fazer contas: soma, divisão, multiplicação, subtração, exponenciação e módulo, utilizando a linguagem Python.
 
