@@ -1,4 +1,4 @@
-# Calculadora :file_folder:
+# Calculadora :pencil2:
 
 #### Função: fazer contas: soma, divisão, multiplicação, subtração, exponenciação e módulo, utilizando a linguagem Python.
 
