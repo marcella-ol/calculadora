@@ -1,4 +1,4 @@
-# Calculadora :pencil2:
+# Calculadora :memo:
 
 #### Função: fazer contas: soma, divisão, multiplicação, subtração, exponenciação e módulo, utilizando a linguagem Python.
 
